@@ -2,6 +2,7 @@ getgenv().Settings = {
     Prediction = 0.0440,
     AutoClick = false,
 }
+
 getgenv().TargetLock = {
     AimPart = "Head",
     Enabled = true,
