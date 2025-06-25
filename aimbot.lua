@@ -17,4 +17,4 @@ getgenv().Aimbot = {
     },
 }
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/gatuhh/aimbot.lua/refs/heads/main/aimbot.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/gatuhh/aimbot.lua/main/aimbot.lua"))()
