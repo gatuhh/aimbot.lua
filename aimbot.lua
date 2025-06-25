@@ -1,10 +1,8 @@
 getgenv().Settings = {
     Prediction = 0.0440,
-    AutoClick = false, -- Enables or disables autoclick
+    AutoClick = false,
 }
-
 getgenv().TargetLock = {
-    LockedTarget = nil, -- Current target locked
     AimPart = "Head",
     Enabled = true,
 }
