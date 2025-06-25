@@ -1,4 +1,4 @@
-getgenv().aimbot = {
+getgenv().Aimbot = {
     Settings = {
         Prediction = 0.0440, 
         AutoClick = false, --
