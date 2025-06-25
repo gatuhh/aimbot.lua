@@ -1,4 +1,4 @@
-getgenv().Aimbot = {
+getgenv() = {
     Settings = {
         Prediction = 0.0440,
         AutoClick = false -- Enables or disables autoclick
