@@ -1,19 +1,19 @@
 getgenv().Aimbot = {
     Settings = {
         Prediction = 0.0440, 
-        AutoClick = false, --
+        AutoClick = false --
     },
     TargetLock = {
         LockedTarget = nil, --
         AimPart = "Head", 
-        Enabled = true, 
+        Enabled = true 
     },
     TargetStrafe = {
         Enabled = true,
         UseButton = true,  
         Distance = 5,  
         Height = 5,    
-        Speed = 20,     
+        Speed = 20     
     },
 }
 
