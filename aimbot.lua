@@ -1,11 +1,10 @@
-print("0.2)
-getgenv().serial = {
+getgenv().aimbot = {
     Settings = {
         Prediction = 0.0440, 
-        AutoClick = false, -- Dont work atm
+        AutoClick = false, --
     },
     TargetLock = {
-        LockedTarget = nil, -- dont change
+        LockedTarget = nil, --
         AimPart = "Head", 
         Enabled = true, 
     },
@@ -18,4 +17,4 @@ getgenv().serial = {
     },
 }
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/fouejp/serial/refs/heads/main/beta"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/gatuhh/aimbot.lua/refs/heads/main/aimbot.lua"))()
